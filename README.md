@@ -1,1 +1,1 @@
-# MATH-Calculus
+# COLLEGE MATH NOTES of Self-Study
