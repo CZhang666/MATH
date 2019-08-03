@@ -14,9 +14,8 @@
 	- Limit comparison test
 	- Ratio test(D’Alembert’s Test)
 	- Alternating Series Test(Leibniz's test)
-- **Error Bounds**
-	- For alternating series
 	- Absolutely/Conditionally convergence
+- **Error Bounds**
 - **Series**
 	- Power Series
  		- Interval of convergence
@@ -31,16 +30,13 @@
 	- Substitution
 	- Basic operation
 - **Taylor Mean Value Theorem**
-	- Using remainder to get homogeneous limit
 - **For Competition** 
 
 ### - [***Vectors and Matrices***](https://github.com/CZhang666/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
 - **Vectors**
 	- Dot product
-		- Area
 		- Projection
 	- Cross product
-		- Area and volume
 		- Operational rule
 	- Cosines
 	- Vector function and Derivative 
@@ -82,35 +78,24 @@
 
 ### - [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL.pdf)
 - **Double Integrals**
-	- Geometric meaning
-	- Double integral to double definite integral
 	- Average of function 
 - **Substitution in Double Integrals**
 	- Double integrals in polar coordinates
-		- Evaluate improper integral by double integrals
 	- Jocobian
 - **Joint Density Function**
 - **Line Integrals**
 	- Line integrals with respect to arc length
-		- Line integral to definite integral
 		- With parametric functions
-			- Ellipse
-			- Circle
-			- y=f(x)
-			- Line segment
 	- Line integrals with respect to coordinate axis
-		- Line integral to definite integral	
-		- Vector fields
-		- With parametric functions
+	- Vector fields
 	- Line integrals in space
-- **Flow**
-	- Flow line and flow
+- **Flow line and flow**
 - **Gradient Fields and potential function**
 	- Definition and determination
 	- Fundamental theorem for line integrals
 		- Path independence
+		- potential function
 	- Consevative field
-	- Get potential function by gradient field 
 - **Curl, Flux and Divergence**
 - **Green Theorem**
 	- In normal form
@@ -119,9 +104,6 @@
 - **Flux Integration(Surface Integration)**
 	- With respect to a surface
 	- With respect to the coordinate
-		- Normal expression
-		- Through a cylinder
-		- Through a sphere
 - **Divergence Theorem(Gauss Formula)**
 	- The first Green formula with Laplace operator
 - **Stoke’s Theorem**
