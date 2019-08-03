@@ -1,10 +1,11 @@
 # Calculus Catalog
--
+---
 
-####- [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
-####- [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
+#### - [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
+#### - [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
 
 ## Content
+---
 ### - [***Sequences and Series***](https://github.com/CZhang666/MATH/blob/master/Calculus/SEQUENCES%20AND%20SERIES.pdf)
 - **Tests for Convergence**
 	- Integral test
