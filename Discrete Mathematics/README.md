@@ -49,7 +49,7 @@
 	- Extrema
 	- Topological sorting
 
-### [Boolean Algebra]
+### [Boolean Algebra]()
 
 ### [Graph]()
 
