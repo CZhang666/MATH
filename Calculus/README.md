@@ -1,5 +1,5 @@
 # [Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus)
----
+
 ## Quick Access
 #### - [All Notes: for first learning](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
 #### - [Notes Lite: for reveiw](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
