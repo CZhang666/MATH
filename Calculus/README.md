@@ -1,7 +1,7 @@
 # [Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")
 
 ## *Overview*
-This is the outline and guide for all notes of college calculus, including the catalog for full version of notes with corresponding `All Notes` and `Full Content` and catalog for the simplified version of notes with corresponding  `Notes Lite` and `Simplified Content`.
+*This is the outline and guide for all notes of college calculus, including the catalog for full version of notes with corresponding `All Notes` and `Full Content` and catalog for the simplified version of notes with corresponding  `Notes Lite` and `Simplified Content`.*
 
 **Author: CZ**
 ## *Quick Access*
