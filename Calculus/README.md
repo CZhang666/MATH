@@ -1,16 +1,24 @@
 # [Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")
 ---
-## *Overview*
+<style>
+.A:link {
+    COLOR: #8A2BE2		
+}
+.B:link {
+    COLOR: #000000		
+}
+</style>
+## *Overview*s
 *This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf) and <a href="#sc">Simplified Content</a> and for the full version of first learning notes with corresponding [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and <a href="#full content">Full Content</a>.*
 
-**_Author:_ [@CZ](https://czhang.home.blog "My Blog")**
+**_Author:_ <a href=https://czhang.home.blog class="A">*@CZ*</a>**
 ## *Quick Access*
 #### - [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
 #### - [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
 <a id="sc"></a>
 ## *Simplified Content*
 ### - [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
-- **Methods for Integration (Flux)**
+- <a href=https://github.com/CZhang666/MATH/blob/master/Calculus/Methods%20for%20Integration.pdf class="B">**Methods for Integration (Flux)**</a>
 	- Line Integral
 		- To difinite integral
 		- Curve in plane
@@ -21,7 +29,7 @@
 		- To double integral
 		- To triple integral
 			- Divergence Theorem
-- **Integra Lite**
+- <a href=https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf class="B">**Integra Lite**</a>
 
 ### - [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
 - **Basic**
