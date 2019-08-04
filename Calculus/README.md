@@ -3,7 +3,7 @@
 ## *Overview*
 *This is the outline and guide for all notes of college calculus, including the catalog for full version of notes with corresponding `All Notes` and `Full Content` and catalog for the simplified version of notes with corresponding  `Notes Lite` and `Simplified Content`.*
 
-**Author: CZ**
+**_Author:_ CZ**
 ## *Quick Access*
 #### - [Notes Lite: for reveiw](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
 #### - [All Notes: for first learning](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
