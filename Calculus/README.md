@@ -1,10 +1,61 @@
-# [Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus)
+# [Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")
 
-## Quick Access
-#### - [All Notes: for first learning](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
+## *Overview*
+This is the outline and guide for all notes of college calculus, including the catalog for full version of notes with corresponding `All Notes` and `Full Content` and catalog for the simplified version of notes with corresponding  `Notes Lite` and `Simplified Content`.
+
+**Author: CZ**
+## *Quick Access*
 #### - [Notes Lite: for reveiw](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+#### - [All Notes: for first learning](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
 
-## Content
+## *Simplified Content*
+### - [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+- **Methods for Integration (Flux)**
+	- Line Integral
+		- To difinite integral
+		- Curve in plane
+			- Green Theorem
+		- Curve in space
+			- Stoke's Theorem 
+	- Surface Integral
+		- To double integral
+		- To triple integral
+			- Divergence Theorem
+- **Integra Lite**
+
+### - [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+- **Basic**
+	- Total Differential 
+	- Chain rule
+	- Unit tangent vector
+	- Directional derivative
+- **Tangent Plane**
+- **Optimization**
+	- Extrema
+	- Customized optimization
+
+### - [***Vectors and Matrices***](https://github.com/CZhang666/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
+- **Vectors**
+	- Products
+	- Unit vector
+- **Matrix**
+- **Equations of Planes**
+- **Linear system**
+
+
+### - [***Sequences and Series***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+- **Tests for Convergence**
+- **Series**
+	- Series for functions
+	- Operation of series
+- **Taylor Mean Value Theorem**
+	- Remainder
+	- Error bound 
+
+
+
+
+## *Full Content*
 ### - [***Sequences and Series***](https://github.com/CZhang666/MATH/blob/master/Calculus/SEQUENCES%20AND%20SERIES.pdf)
 - **Tests for Convergence**
 	- Integral test
@@ -94,8 +145,8 @@
 	- Definition and determination
 	- Fundamental theorem for line integrals
 		- Path independence
-		- potential function
-	- Consevative field
+		- potentials function
+	- Conservative field
 - **Curl, Flux and Divergence**
 - **Green Theorem**
 	- In normal form
