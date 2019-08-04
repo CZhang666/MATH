@@ -1,17 +1,28 @@
-# [Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")
+# *[Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")*
 ---
-## *Overview*s
-*This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf) and <a href="#sc">Simplified Content</a> and for the full version of first learning notes with corresponding [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and <a href="#full content">Full Content</a>.*
 
-**_Author:_ <a href=https://czhang.home.blog class="A">*@CZ*</a>**
+<style>
+#em a:link,#em a:visited{color:#8A2BE2;text-decoration:none;}
+#em a:hover{text-decoration:underline;}
+#en a:link,#en a:visited{font-family:Comic;color:#000000;text-decoration:none}
+#en a:hover{text-decoration:underline;}
+a:link,a:visited{color:#4682B4;text-decoration:none;}
+a:hover{text-decoration:underline;}
+</style> 
 
-## *Quick Access*
-#### - [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
-#### - [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
+## Overview
+
+<div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf) and *<a href="#sc">Simplified Content</a>* and for the full version of first learning notes with corresponding [*All Notes*](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and *<a href="#full content">Full Content</a>* (All italics are hyperlinks).</div>[]()
+
+<div id="em">__Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a></div>***
+
+## Quick Access
+#### - *[Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)*
+#### - *[All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)*
 <a id="sc"></a>
-## *Simplified Content*
+## Simplified Content
 ### - [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
-- <a href=https://github.com/CZhang666/MATH/blob/master/Calculus/Methods%20for%20Integration.pdf class="B">**Methods for Integration (Flux)**</a>
+- <div id="en">***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/Methods%20for%20Integration.pdf" unselectable="on">Methods for Integration (Flux)</a></div>***
 	- Line Integral
 		- To difinite integral
 		- Curve in plane
@@ -22,7 +33,7 @@
 		- To double integral
 		- To triple integral
 			- Divergence Theorem
-- <a href=https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf class="B">**Integra Lite**</a>
+- <div id="en">***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf" unselectable="on">Integral Lite</a></div>***
 
 ### - [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
 - **Basic**
@@ -56,7 +67,7 @@
 
 
 <a id="full content"></a>
-## *Full Content*
+## Full Content
 ### - [***Sequences and Series***](https://github.com/CZhang666/MATH/blob/master/Calculus/SEQUENCES%20AND%20SERIES.pdf)
 - **Tests for Convergence**
 	- Integral test
