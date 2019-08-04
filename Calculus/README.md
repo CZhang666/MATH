@@ -1,13 +1,13 @@
 # [Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")
-
+---
 ## *Overview*
-*This is the outline and guide for all notes of college calculus, including the catalog for full version of notes with corresponding `All Notes` and `Full Content` and catalog for the simplified version of notes with corresponding  `Notes Lite` and `Simplified Content`.*
+*This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding  <font color=#CD5C5C>Notes Lite</font> and <a href="#sc"><font color=#CD5C5C>Simplified Content</font></a> and for the full version of first learning notes with corresponding <font color=#CD5C5C>All Notess</font> and <a href="#full content"><font color=#CD5C5C>Full Content</font></a>.*
 
-**_Author:_ CZ**
+**_Author:_ [@CZ]()**
 ## *Quick Access*
-#### - [Notes Lite: for reveiw](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
-#### - [All Notes: for first learning](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
-
+#### - [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+#### - [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)
+<a id="sc"></a>
 ## *Simplified Content*
 ### - [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
 - **Methods for Integration (Flux)**
@@ -54,7 +54,7 @@
 
 
 
-
+<a id="full content"></a>
 ## *Full Content*
 ### - [***Sequences and Series***](https://github.com/CZhang666/MATH/blob/master/Calculus/SEQUENCES%20AND%20SERIES.pdf)
 - **Tests for Convergence**
@@ -160,8 +160,4 @@
 - **Stoke’s Theorem**
 
 ---
-
-
-
-
 
