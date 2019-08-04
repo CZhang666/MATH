@@ -24,7 +24,7 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 			- Divergence Theorem
 - ***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf" unselectable="on">Integral Lite</a>***
 
-### - [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+### - [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/Differential%20Lite.pdf)
 - **Basic**
 	- Total Differential 
 	- Chain rule
