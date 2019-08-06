@@ -11,14 +11,11 @@
 </br >
 <a id="c"></a>
 # ➣ *[Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")*
-######<a href="#top"><p align="right">☝︎back to top</p></a>
 ---
-
 ## Overview
+*This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf) and <a href="#sc">➣Simplified Content</a> and for the full version of first learning notes with corresponding [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and <a href="#full content">➣Full Content</a>.*
 
-<div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf) and *<a href="#sc"><b>➣Simplified Content</b></a>* and for the full version of first learning notes with corresponding [*All Notes*](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and *<b><a href="#full content">➣Full Content</a></b>*.</div>[]()
-
-<div id="em">__Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a></div>***
+__Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a>***
 
 ## Quick Access
 #### ➣ *[Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)*
@@ -26,7 +23,7 @@
 <a id="sc"></a>
 ## Simplified Content
 ### ➣ [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
-- <div id="en">***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/Methods%20for%20Integration.pdf" unselectable="on">➣Methods for Integration (Flux)</a></div>***
+- ***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/Methods%20for%20Integration.pdf" unselectable="on">Methods for Integration (Flux)</a>***
 	- Line Integral
 		- To difinite integral
 		- Curve in plane
@@ -37,7 +34,7 @@
 		- To double integral
 		- To triple integral
 			- Divergence Theorem
-- <div id="en">***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf" unselectable="on">➣Integral Lite</a></div>***
+- ***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf" unselectable="on">Integral Lite</a>***
 
 ### ➣ [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/Differential%20Lite.pdf)
 - **Basic**
