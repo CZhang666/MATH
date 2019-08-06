@@ -3,10 +3,12 @@
 ---
 
 ## Content
-### <a href="#c">***➣ Calculus Catalog***</a>
+### ➣ <a href="#c">***Calculus Catalog***</a>
 ### ➣ <a href="#dm">***Dicrete Mathematics Catalog***</a>
 ### ➣ [***Linear Algebra Catalog(to be continued)***]()
 
+</br>
+</br>
 
 <a id="c"></a>
 # *➣ [Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")*
@@ -173,17 +175,27 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 </br >
 </br >
 <a id='dm'></a>
-# ➣ [Discrete Mathematics Catalog](https://github.com/CZhang666/MATH/tree/master/Discrete%20Mathematics)
-######<a href="#top"><p align="right">☝︎back to top</p></a>
+# Discrete Mathematics Catalog
 ---
-## Overview
-<div id="en"> This is the outline and guide for all notes of Discrete Mathematics, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*]() and *<b><a href="#dmsc">➣Simplified Content</a></b>* and for the full version of first learning notes with corresponding [*All Notes*]() and *<b><a href="#dmfc">➣Full Content</a></b>*.
-
-Book used: *Discrete Mathematics and Its Applications(8th Edition)* </div>[]()
 ## Quick Access
 
-### ➣ [***All Notes***]()
-### ➣ [***Notes Lite***]()
+#### - [All Notes]()
+#### - [Notes Lite]()
+
+## Content
+- Logic and Proofs
+- Basic Structures: Sets, Functions, Sequences, Sums, and Matrices 
+- Algorithms ⭐️
+- Number Theory and Cryptography
+- Induction and Recursion
+- Counting
+- Discrete Probability ⭐️
+- Relations
+- Graphs
+- Trees
+- Boolean Algebra
+- Modeling Computation
+
 <a id="dmsc"></a>
 ## Simplified Content
 - Logic and Proofs
