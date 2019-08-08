@@ -23,18 +23,9 @@ a:hover{text-decoration:underline;}
 ###### <a href="#top"><p align="right">☝︎back to top</p></a>
 ---
 
-<style>
-#em a:link,#em a:visited{color:#8A2BE2;text-decoration:none;}
-#em a:hover{text-decoration:underline;}
-#en a:link,#en a:visited{font-family:Comic;color:#000000;text-decoration:none}
-#en a:hover{text-decoration:underline;}
-a:link,a:visited{color:#4682B4;text-decoration:none;}
-a:hover{text-decoration:underline;}
-</style> 
-
 ## Overview
 
-<div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](file:///Users/apple/Desktop/MATH/Calculus/Notes%20Lite.pdf) and *<a href="#sc">➣Simplified Content</a>* and for the full version of first learning notes with corresponding [*All Notes*](file:///Users/apple/Desktop/MATH/Calculus/Calculus%20Notes%20All.pdf) and *<a href="#full content">➣Full Content</a>*.</div>[]()
+<div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](file:///Users/apple/Desktop/MATH/Calculus/Notes%20Lite.pdf) and *<a href="#sc"><b>➣Simplified Content</b></a>* and for the full version of first learning notes with corresponding [*All Notes*](file:///Users/apple/Desktop/MATH/Calculus/Calculus%20Notes%20All.pdf) and *<a href="#full content"><b>➣Full Content</b></a>*.</div>[]()
 
 <div id="em">__Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a></div>***
 
@@ -42,8 +33,7 @@ Book Used: _**Calculus Single and Multivariable 6th edition**_
 
 <img src="https://images-na.ssl-images-amazon.com/images/I/61UlLdMhPTL._SX406_BO1,204,203,200_.jpg" style="zoom:35%">
 
-Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev728782384331352.jpg" style="zoom:2.5%">
-[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)***
+Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev728782384331352.jpg" style="zoom:2.5%"> [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)***
 
 
 ## Quick Access
