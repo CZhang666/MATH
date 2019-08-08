@@ -8,7 +8,7 @@ a:hover{text-decoration:underline;}
 </style> 
 
 <a id="top"></a>
-# ➣ <font size="7">[College Math Notes](https://github.com/CZhang666/MATH "Repository in GitHub")</font>
+# ➣ <font size="7">[College Math Notes](file:///Users/apple/Desktop/MATH/Notes_formyself.html)</font>
 ---
 
 ## Content
@@ -19,23 +19,32 @@ a:hover{text-decoration:underline;}
 </br >
 </br >
 <a id="c"></a>
-# ➣ *[Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")*
+# ➣ *[Calculus Catalog](file:///Users/apple/Desktop/MATH/Calculus/For Myself_Calculus Catalog.html)*
 ######<a href="#top"><p align="right">☝︎back to top</p></a>
 ---
 
+<style>
+#em a:link,#em a:visited{color:#8A2BE2;text-decoration:none;}
+#em a:hover{text-decoration:underline;}
+#en a:link,#en a:visited{font-family:Comic;color:#000000;text-decoration:none}
+#en a:hover{text-decoration:underline;}
+a:link,a:visited{color:#4682B4;text-decoration:none;}
+a:hover{text-decoration:underline;}
+</style> 
+
 ## Overview
 
-<div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes%20Lite.pdf) and *<a href="#sc"><b>➣Simplified Content</b></a>* and for the full version of first learning notes with corresponding [*All Notes*](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and *<b><a href="#full content">➣Full Content</a></b>*.</div>[]()
+<div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](file:///Users/apple/Desktop/MATH/Calculus/Notes%20Lite.pdf) and *<a href="#sc">➣Simplified Content</a>* and for the full version of first learning notes with corresponding [*All Notes*](file:///Users/apple/Desktop/MATH/Calculus/Calculus%20Notes%20All.pdf) and *<a href="#full content">➣Full Content</a>*.</div>[]()
 
 <div id="em">__Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a></div>***
 
 ## Quick Access
-#### ➣ *[Notes Lite](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes%20Lite.pdf)*
-#### ➣ *[All Notes](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Calculus%20Notes%20All.pdf)*
+#### ➣ *[Notes Lite](file:///Users/apple/Desktop/MATH/Calculus/Notes%20Lite.pdf)*
+#### ➣ *[All Notes](file:///Users/apple/Desktop/MATH/Calculus/Calculus%20Notes%20All.pdf)*
 <a id="sc"></a>
 ## Simplified Content
-### ➣ [***Integral***](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes%20Lite.pdf)
-- <div id="en">***<a href="file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes/Methods%20for%20Integration.pdf" unselectable="on">➣Methods for Integration (Flux)</a></div>***
+### ➣ [***Integral***](file:///Users/apple/Desktop/MATH/Calculus/Notes%20Lite.pdf)
+- <div id="en">***<a href="file:///Users/apple/Desktop/MATH/Calculus/Methods%20for%20Integration.pdf" unselectable="on">➣Methods for Integration (Flux)</a></div>***
 	- Line Integral
 		- To difinite integral
 		- Curve in plane
@@ -46,9 +55,9 @@ a:hover{text-decoration:underline;}
 		- To double integral
 		- To triple integral
 			- Divergence Theorem
-- <div id="en">***<a href="file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes/INTEGRAL%20Lite.pdf" unselectable="on">➣Integral Lite</a></div>***
+- <div id="en">***<a href="file:///Users/apple/Desktop/MATH/Calculus/INTEGRAL%20Lite.pdf" unselectable="on">➣Integral Lite</a></div>***
 
-### ➣ [***Differential***](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes/Differential%20Lite.pdf)
+### ➣ [***Differential***](file:///Users/apple/Desktop/MATH/Calculus/Differential%20Lite.pdf)
 - **Basic**
 	- Total Differential 
 	- Chain rule
@@ -59,7 +68,7 @@ a:hover{text-decoration:underline;}
 	- Extrema
 	- Customized optimization
 
-### ➣ [***Vectors and Matrices***](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes/VECTOR&MATRICS.pdf)
+### ➣ [***Vectors and Matrices***](file:///Users/apple/Desktop/MATH/Calculus/VECTOR&MATRICS.pdf)
 - **Vectors**
 	- Products
 	- Unit vector
@@ -68,7 +77,7 @@ a:hover{text-decoration:underline;}
 - **Linear system**
 
 
-### ➣ [***Sequences and Series***](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes/SEQUENCES%20AND%20SERIES.pdf)
+### ➣ [***Sequences and Series***](file:///Users/apple/Desktop/MATH/Calculus/SEQUENCES%20AND%20SERIES.pdf)
 - **Tests for Convergence**
 - **Series**
 	- Series for functions
@@ -79,7 +88,7 @@ a:hover{text-decoration:underline;}
 
 <a id="full content"></a>
 ## Full Content
-### ➣ [***Sequences and Series***](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes/SEQUENCES%20AND%20SERIES.pdf)
+### ➣ [***Sequences and Series***](file:///Users/apple/Desktop/MATH/Calculus/SEQUENCES%20AND%20SERIES.pdf)
 - **Tests for Convergence**
 	- Integral test
 	- P-series
@@ -106,7 +115,7 @@ a:hover{text-decoration:underline;}
 - **Taylor Mean Value Theorem**
 - **For Competition** 
 
-### ➣ [***Vectors and Matrices***](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes/VECTOR&MATRICS.pdf)
+### ➣ [***Vectors and Matrices***](file:///Users/apple/Desktop/MATH/Calculus/VECTOR&MATRICS.pdf)
 - **Vectors**
 	- Dot product
 		- Projection
@@ -125,7 +134,7 @@ a:hover{text-decoration:underline;}
 	- Inverse and Adjoint matrix
 	- Theorems of homogeneous and inhomogeneous
 
-### ➣ [***Differential***](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes/DIFFERENTIAL.pdf)
+### ➣ [***Differential***](file:///Users/apple/Desktop/MATH/Calculus/DIFFERENTIAL.pdf)
 - **Partial Derivative**
 	- First-order and high-order expression 
 	- In graph
@@ -150,7 +159,7 @@ a:hover{text-decoration:underline;}
 - **Non-independent Variables**
 	- Constrained differentials
 
-###➣ [***Integral***](file:///Users/apple/Desktop/Math%20Notes/Self%20Study/Calculus/Notes/INTEGRAL.pdf)
+###➣ [***Integral***](file:///Users/apple/Desktop/MATH/Calculus/INTEGRAL.pdf)
 - **Double Integrals**
 	- Average of function 
 - **Substitution in Double Integrals**
@@ -183,6 +192,7 @@ a:hover{text-decoration:underline;}
 - **Stoke’s Theorem**
 
 ---
+
 
 
 </br >
