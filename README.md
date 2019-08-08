@@ -179,7 +179,7 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 <a id='dm'></a>
 
 # [Discrete Mathematics Catalog](https://github.com/CZhang666/MATH/tree/master/Discrete%20Mathematics)
-######<a href="#top"><p align="right">☝︎back to top</p></a>
+###### <a href="#top"><p align="right">☝︎back to top</p></a>
 ---
 ## Quick Access
 
