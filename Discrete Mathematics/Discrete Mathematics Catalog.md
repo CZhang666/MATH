@@ -1,10 +1,21 @@
+<style>
+#em a:link,#em a:visited{color:#8A2BE2;text-decoration:none;}
+#em a:hover{text-decoration:underline;}
+#en a:link,#en a:visited{font-family:Comic;color:#000000;text-decoration:none}
+#en a:hover{text-decoration:underline;}
+a:link,a:visited{color:#4682B4;text-decoration:none;}
+a:hover{text-decoration:underline;}
+</style> 
+
+
 # ➣ [Discrete Mathematics Catalog](https://github.com/CZhang666/MATH/tree/master/Discrete%20Mathematics)
 ---
 ## Overview
-This is the outline and guide for all notes of Discrete Mathematics, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*]() and *<a href="#sc">➣Simplified Content</a>* and for the full version of first learning notes with corresponding [*All Notes*]() and *<a href="#full content">➣Full Content</a>*.
+<div id="en"> This is the outline and guide for all notes of Discrete Mathematics, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*]() and *<a href="#sc">➣Simplified Content</a>* and for the full version of first learning notes with corresponding [*All Notes*]() and *<a href="#full content">➣Full Content</a>*.
 
-Book used: ***Discrete Mathematics and Its Applications(8th Edition)*** 
+Book used: *Discrete Mathematics and Its Applications(8th Edition)* </div>[]()
 ## Quick Access
+
 ### ➣ [***All Notes***]()
 ### ➣ [***Notes Lite***]()
 <a id="sc"></a>
