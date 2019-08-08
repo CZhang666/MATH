@@ -23,7 +23,7 @@ a:hover{text-decoration:underline;}
 </br >
 <a id="c"></a>
 # ➣ *[Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")*
-######<a href="#top"><p align="right">☝︎back to top</p></a>
+###### <a href="#top"><p align="right">☝︎back to top</p></a>
 ---
 
 ## Overview
@@ -192,7 +192,7 @@ a:hover{text-decoration:underline;}
 </br >
 <a id='dm'></a>
 # ➣ [Discrete Mathematics Catalog](https://github.com/CZhang666/MATH/tree/master/Discrete%20Mathematics)
-######<a href="#top"><p align="right">☝︎back to top</p></a>
+###### <a href="#top"><p align="right">☝︎back to top</p></a>
 ---
 ## Overview
 <div id="en"> This is the outline and guide for all notes of Discrete Mathematics, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*]() and *<b><a href="#dmsc">➣Simplified Content</a></b>* and for the full version of first learning notes with corresponding [*All Notes*]() and *<b><a href="#dmfc">➣Full Content</a></b>*.
