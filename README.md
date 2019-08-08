@@ -9,9 +9,9 @@
 
 </br>
 </br>
-
 <a id="c"></a>
 # *➣ [Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")*
+######<a href="#top"><p align="right">☝︎back to top</p></a>
 ---
 ## Overview
 *This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf) and <a href="#sc">➣Simplified Content</a> and for the full version of first learning notes with corresponding [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and <a href="#full content">➣Full Content</a>.*
@@ -176,7 +176,8 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 </br >
 <a id='dm'></a>
 
-# Discrete Mathematics Catalog
+# [Discrete Mathematics Catalog](https://github.com/CZhang666/MATH/tree/master/Discrete%20Mathematics)
+######<a href="#top"><p align="right">☝︎back to top</p></a>
 ---
 ## Quick Access
 
