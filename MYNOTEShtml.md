@@ -30,8 +30,14 @@ a:hover{text-decoration:underline;}
 
 <div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf) and *<a href="#sc"><b>➣Simplified Content</b></a>* and for the full version of first learning notes with corresponding [*All Notes*](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and *<b><a href="#full content">➣Full Content</a></b>*.</div>[]()
 
-**<div id="em">Author: *<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a>*</div>**
+<div id="em">Author: ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a>***</div>[]()
 
+Book Used: _**Calculus Single and Multivariable 6th edition**_
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/61UlLdMhPTL._SX406_BO1,204,203,200_.jpg" style="zoom:35%">
+
+Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev728782384331352.jpg" style="zoom:2.5%">
+[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)***
 
 ## Quick Access
 #### ➣ *[Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)*

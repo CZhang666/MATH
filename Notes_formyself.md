@@ -38,6 +38,14 @@ a:hover{text-decoration:underline;}
 
 <div id="em">__Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a></div>***
 
+Book Used: _**Calculus Single and Multivariable 6th edition**_
+
+<img src="https://images-na.ssl-images-amazon.com/images/I/61UlLdMhPTL._SX406_BO1,204,203,200_.jpg" style="zoom:35%">
+
+Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev728782384331352.jpg" style="zoom:2.5%">
+[Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)***
+
+
 ## Quick Access
 #### ➣ *[Notes Lite](file:///Users/apple/Desktop/MATH/Calculus/Notes%20Lite.pdf)*
 #### ➣ *[All Notes](file:///Users/apple/Desktop/MATH/Calculus/Calculus%20Notes%20All.pdf)*
