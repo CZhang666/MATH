@@ -63,8 +63,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 		- Theorems
 		- Fundamental Theorem of Arithmetics
 		- gcd&lcm
-			- Bezouts Identity
-			- Lemma
+			- Bezouts Identity and lemma
 		- Euclidean Algorithm
 	- Moddular Arithmetic 
 		- Theorems and corollary
@@ -75,7 +74,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 	- Chinese Remainder Theorem
 	- Fermat's Little Theorem
 	- Euler Totien Function
-	- Carmichael Number
+	- Pseudoprimes and Carmichael Number
 	- Primitive Root
 	- Discerete Logarithms
 
