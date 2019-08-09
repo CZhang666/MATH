@@ -51,35 +51,48 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 <a id="dmfc"></a>
 ## Full Content
 ### ➣ [Basic Knowledge]()
-- **Sets**
-	- De Morgan's Law
-	- Cartesian Products
-		- Tuple
-		- Distributive law for Cartesian's Product
-	- Computer Representation of Sets
-		- Bitwise AND, OR, XOR
-- **Number Theory**
-	- Divisibility
-		- Theorems
-		- Fundamental Theorem of Arithmetics
-		- gcd&lcm
-			- Bezouts Identity and lemma
-		- Euclidean Algorithm
-	- Moddular Arithmetic 
-		- Theorems and corollary
-		- Arithmetic modulo m
-		- Base b expansion of n and Base conversion
-		- linear congruences
-			- Inverse
+#### **_- Sets_**
+- __De Morgan's Law__
+- __Cartesian Products__
+	- Tuple
+	- Distributive law for Cartesian's Product
+- __Computer Representation of Sets__
+	- Bitwise AND, OR, XOR
+	
+#### **_- Number Theory_**
+- __Divisibility__
+	- Theorems
+	- Fundamental Theorem of Arithmetics
+	- gcd&lcm
+		- Bezouts Identity and lemma
+	- Euclidean Algorithm
+- __Moddular Arithmetic__
+	- Theorems and corollary
+	- Arithmetic modulo m
+	- Base b expansion of n and Base conversion
+	- linear congruences
+		- Inverse
+- __Theorems in Number Theory__
 	- Chinese Remainder Theorem
 	- Fermat's Little Theorem
 	- Euler Totien Function
 	- Pseudoprimes and Carmichael Number
-	- Primitive Root
-	- Discerete Logarithms
+- __Primitive Root__
+- __Discerete Logarithms__
+- __Hashing Functions__
+- __Cryptography__
+	- Classical ciphers
+		- Shift ciphers
+		- Affine ciphers
+	- Blok ciphers
+	- Cryptosystem
+	- RSA Encryption
+		- Encryption
+		- Decryption
+		- Digital signature
 
-	
-	
+		
+
 - **Sequences**
 - **Matrix**
 - **Logic**
