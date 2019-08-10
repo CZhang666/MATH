@@ -7,11 +7,9 @@ a:link,a:visited{color:#4682B4;text-decoration:none;}
 a:hover{text-decoration:underline;}
 </style> 
 
-<a id="top"></a>
 # ➣ <font size="7">[College Math Notes](https://github.com/CZhang666/MATH "Repository in GitHub")</font>
 
 **<div id="em">Author: *<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a>*</div>**
-
 
 
 ## Content

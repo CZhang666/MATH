@@ -35,6 +35,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 ### ➣ [***Notes Lite***]()
 <a id="dmsc"></a>
 ## Simplified Content
+###### <a href="#top"><p align="right">☝︎back to top</p></a>
 - Logic and Proofs
 - Basic Structures: Sets, Functions, Sequences, Sums, and Matrices 
 - Algorithms ⭐️
@@ -50,6 +51,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 
 <a id="dmfc"></a>
 ## Full Content
+###### <a href="#top"><p align="right">☝︎back to top</p></a>
 ### ➣ [Basic Knowledge]()
 #### **_- Sets_**
 - __De Morgan's Law__
