@@ -21,11 +21,11 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 
 - ***Discrete Mathematics and Its Applications(8th Edition)***
 
-<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565272785682&di=450fcd97b384193355b8c17fed46ca3a&imgtype=0&src=http%3A%2F%2Fwww.liuhaihua.cn%2Fwp-content%2Fuploads%2F2019%2F07%2F7za6Nny.jpg" style="zoom:30%">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565272785682&di=450fcd97b384193355b8c17fed46ca3a&imgtype=0&src=http%3A%2F%2Fwww.liuhaihua.cn%2Fwp-content%2Fuploads%2F2019%2F07%2F7za6Nny.jpg" style="zoom:30%">
 
 - ***Mathematical Olympiad Series: Number Theory***
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="http://img4.imgtn.bdimg.com/it/u=3938557943,643413339&fm=15&gp=0.jpg" style="zoom:23%">
+<img src="https://ss3.bdstatic.com/70cFv8Sh_Q1YnxGkpoWK1HF6hhy/it/u=1651774283,965892538&fm=26&gp=0.jpg" style="zoom:35%">
 </div>[]()
 
 <a id="dmqa"></a>
