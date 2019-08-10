@@ -104,6 +104,20 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 	- Equivalences
 	- Predicates
 
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+</br>
+
+</br></br>
+
+</br>
+</br>
+
 ### ➣ [Counting]()
 - **Permutations and Combinations**
 	- Recurrence
