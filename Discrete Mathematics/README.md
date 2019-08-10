@@ -16,7 +16,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 
 - ***Mathematical Olympiad Series: Number Theory***
 
-&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565419309177&di=060d7fc845f848cc27dbdef998bc3606&imgtype=0&src=http%3A%2F%2Fimage.suning.cn%2Fuimg%2Fsop%2Fcommodity%2F134652033814588240233285_x.jpg" style="zoom:23%">
+<img src="https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1565419309177&di=060d7fc845f848cc27dbdef998bc3606&imgtype=0&src=http%3A%2F%2Fimage.suning.cn%2Fuimg%2Fsop%2Fcommodity%2F134652033814588240233285_x.jpg" style="zoom:23%">
 
 <a id="dmqa"></a>
 ## Quick Access
