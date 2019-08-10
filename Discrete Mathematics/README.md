@@ -23,7 +23,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 
 ### ➣ [***All Notes***]()
 ### ➣ [***Notes Lite***]()
-<a id="sc"></a>
+<a id="dmsc"></a>
 ## Simplified Content
 - Logic and Proofs
 - Basic Structures: Sets, Functions, Sequences, Sums, and Matrices 
