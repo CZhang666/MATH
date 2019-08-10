@@ -90,10 +90,15 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 		- Encryption
 		- Decryption
 		- Digital signature
-
 		
+#### **_- Sequences_**
+- __Summations__
 
-- **Sequences**
+#### **_Induction and Recursion_**
+- __Strong Induction__
+- __Recursion__
+
+
 - **Matrix**
 - **Logic**
 	- Equivalences
