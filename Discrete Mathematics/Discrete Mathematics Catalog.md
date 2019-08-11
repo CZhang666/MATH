@@ -86,7 +86,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 	- Classical ciphers
 		- Shift ciphers
 		- Affine ciphers
-	- Blok ciphers
+	- Block ciphers
 	- Cryptosystem
 	- RSA Encryption
 		- Encryption
@@ -96,12 +96,28 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 #### **_- Sequences_**
 - __Summations__
 
-#### **_Induction and Recursion_**
+#### **_- Induction and Recursion_**
 - __Strong Induction__
 - __Recursion__
+	- Lamé’s Theorem
+	- Recursively defined sets
+		- Rooted Tree
+			- full binary tree
+			- extended binary tree
+	- Structural Induction
+		- theroem of full binary trees
+	- Recursivee Algorithms
+		-  the merge sort
+
+#### **_- Matrix_**
+- Boolean Matrix
+	- Join and meet of boolean matrix
+	- Boolean product
+	- Boolean power
 
 
-- **Matrix**
+
+
 - **Logic**
 	- Equivalences
 	- Predicates
