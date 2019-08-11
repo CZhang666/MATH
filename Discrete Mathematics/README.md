@@ -42,7 +42,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 <a id="dmfc"></a>
 ## Full Content
 ###### <a href="#top"><p align="right">☝︎back to top</p></a>
-### ➣ [Basic Knowledge]()
+### ➣ [Basic Knowledge](https://github.com/CZhang666/MATH/blob/master/Discrete%20Mathematics/Sets%2C%20Number%20Theory%2C%20Sequence%2C%20Rucursion%20and%20Matrix.pdf)
 #### **_- Sets_**
 - __De Morgan's Law__
 - __Cartesian Products__
@@ -76,7 +76,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 	- Classical ciphers
 		- Shift ciphers
 		- Affine ciphers
-	- Blok ciphers
+	- Block ciphers
 	- Cryptosystem
 	- RSA Encryption
 		- Encryption
@@ -86,12 +86,51 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 #### **_- Sequences_**
 - __Summations__
 
-#### **_Induction and Recursion_**
+#### **_- Induction and Recursion_**
 - __Strong Induction__
 - __Recursion__
+	- Lamé’s Theorem
+	- Recursively defined sets
+		- Rooted Tree
+			- full binary tree
+			- extended binary tree
+	- Structural Induction
+		- theroem of full binary trees
+	- Recursivee Algorithms
+		-  the merge sort
 
+#### **_- Matrix_**
+- Boolean Matrix
+	- Join and meet of boolean matrix
+	- Boolean product
+	- Boolean power
 
-- **Matrix**
-- **Logic**
-	- Equivalences
-	- Predicates
+### ➣ [Logic]()
+- Equivalences
+- Predicates
+
+### ➣ [Counting]()
+- **Permutations and Combinations**
+	- Recurrence
+	- Generation
+- **Generating Functions**
+- **The Pigeonhole Principle**
+- **Inclusion-Exclusion**
+
+### ➣ [Relations]()
+- **Operations and Properties**
+	- n-ary Relations and their applicatioin
+- **Closures of Relationwar**
+	- Warshall algorithms
+- **Equivalence Relations**
+- **Partial Orderings**
+	- Hasse Diagram
+	- Extrema
+	- Topological sorting
+
+### ➣ [Boolean Algebra]()
+
+### ➣ [Graph]()
+
+### ➣ [Trees]()
+
