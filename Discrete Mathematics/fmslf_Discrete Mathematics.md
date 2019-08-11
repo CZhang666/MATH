@@ -115,26 +115,9 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 	- Boolean product
 	- Boolean power
 
-
-
-
-- **Logic**
-	- Equivalences
-	- Predicates
-
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-</br>
-
-</br></br>
-
-</br>
-</br>
+### ➣ [Logic]()
+- Equivalences
+- Predicates
 
 ### ➣ [Counting]()
 - **Permutations and Combinations**
