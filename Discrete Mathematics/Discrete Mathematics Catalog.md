@@ -116,8 +116,21 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 	- Boolean power
 
 ### ➣ [Logic]()
-- Equivalences
-- Predicates
+- Proposition
+	- Negation
+	- AND OR XOR
+	- Tautology
+	- Contradiction
+	- Contingency
+- Conditional statement and biocondiiional statemenr
+- Logic Equivalent laws
+	-  Laws involving paradigm
+	-  Laws involving (bi)conditional statements
+	-  Laws invovlving Quantifiers
+-  Quantifiers and Predicate
+	- Existential and universal quantifier
+	- Nested Quantifier
+
 
 ### ➣ [Counting]()
 - **Permutations and Combinations**
