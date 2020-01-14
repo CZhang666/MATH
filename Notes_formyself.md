@@ -27,7 +27,7 @@ a:hover{text-decoration:underline;}
 
 <div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](file:///Users/apple/Desktop/MATH/Calculus/Notes%20Lite.pdf) and *<a href="#sc"><b>➣Simplified Content</b></a>* and for the full version of first learning notes with corresponding [*All Notes*](file:///Users/apple/Desktop/MATH/Calculus/Calculus%20Notes%20All.pdf) and *<a href="#full content"><b>➣Full Content</b></a>*.</div>[]()
 
-<div id="em">__Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a></div>***
+<div id="em">__Author:__ ***<a href="https://zcczhang.github.io/" unselectable="on" title="My Homepage">@CZ</a></div>***
 
 Book Used: _**Calculus Single and Multivariable 6th edition**_
 

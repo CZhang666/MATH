@@ -7,9 +7,9 @@ a:link,a:visited{color:#4682B4;text-decoration:none;}
 a:hover{text-decoration:underline;}
 </style> 
 
-# ➣ <font size="7">[College Math Notes](https://github.com/CZhang666/MATH "Repository in GitHub")</font>
+# ➣ <font size="7">[College Math Notes](https://github.com/zcczhang/MATH "Repository in GitHub")</font>
 
-**<div id="em">Author: *<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a>*</div>**
+**<div id="em">Author: *<a href="https://zcczhang.github.io/" unselectable="on" title="My Homepage">@CZ</a>*</div>**
 
 
 ## Content
@@ -20,15 +20,15 @@ a:hover{text-decoration:underline;}
 </br >
 </br >
 <a id="c"></a>
-# ➣ *[Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")*
+# ➣ *[Calculus Catalog](https://github.com/zcczhang/MATH/tree/master/Calculus "Repository in GitHub")*
 ###### <a href="#top"><p align="right">☝︎back to top</p></a>
 ---
 
 ## Overview
 
-<div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf) and *<a href="#sc"><b>➣Simplified Content</b></a>* and for the full version of first learning notes with corresponding [*All Notes*](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and *<b><a href="#full content">➣Full Content</a></b>*.</div>[]()
+<div id="en"> This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [*Notes Lite*](https://github.com/zcczhang/MATH/blob/master/Calculus/Notes%20Lite.pdf) and *<a href="#sc"><b>➣Simplified Content</b></a>* and for the full version of first learning notes with corresponding [*All Notes*](https://github.com/zcczhang/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and *<b><a href="#full content">➣Full Content</a></b>*.</div>[]()
 
-<div id="em">Author: ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a>***</div>[]()
+<div id="em">Author: ***<a href="https://zcczhang.github.io/" unselectable="on" title="My Homepage">@CZ</a>***</div>[]()
 
 Book Used: _**Calculus Single and Multivariable 6th edition**_
 
@@ -38,13 +38,13 @@ Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev72878238
 [Multivariable Calculus](https://ocw.mit.edu/courses/mathematics/18-02sc-multivariable-calculus-fall-2010/)***
 
 ## Quick Access
-#### ➣ *[Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)*
-#### ➣ *[All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)*
+#### ➣ *[Notes Lite](https://github.com/zcczhang/MATH/blob/master/Calculus/Notes%20Lite.pdf)*
+#### ➣ *[All Notes](https://github.com/zcczhang/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)*
 <a id="sc"></a>
 ## Simplified Content
 ###### <a href="#top"><p align="right">☝︎back to top</p></a>
-### ➣ [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
-- <div id="en">***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/Methods%20for%20Integration.pdf" unselectable="on">➣Methods for Integration (Flux)</a></div>***
+### ➣ [***Integral***](https://github.com/zcczhang/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+- <div id="en">***<a href="https://github.com/zcczhang/MATH/blob/master/Calculus/Methods%20for%20Integration.pdf" unselectable="on">➣Methods for Integration (Flux)</a></div>***
 	- Line Integral
 		- To difinite integral
 		- Curve in plane
@@ -55,9 +55,9 @@ Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev72878238
 		- To double integral
 		- To triple integral
 			- Divergence Theorem
-- <div id="en">***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf" unselectable="on">➣Integral Lite</a></div>***
+- <div id="en">***<a href="https://github.com/zcczhang/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf" unselectable="on">➣Integral Lite</a></div>***
 
-### ➣ [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/Differential%20Lite.pdf)
+### ➣ [***Differential***](https://github.com/zcczhang/MATH/blob/master/Calculus/Differential%20Lite.pdf)
 - **Basic**
 	- Total Differential 
 	- Chain rule
@@ -68,7 +68,7 @@ Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev72878238
 	- Extrema
 	- Customized optimization
 
-### ➣ [***Vectors and Matrices***](https://github.com/CZhang666/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
+### ➣ [***Vectors and Matrices***](https://github.com/zcczhang/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
 - **Vectors**
 	- Products
 	- Unit vector
@@ -77,7 +77,7 @@ Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev72878238
 - **Linear system**
 
 
-### ➣ [***Sequences and Series***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+### ➣ [***Sequences and Series***](https://github.com/zcczhang/MATH/blob/master/Calculus/Notes%20Lite.pdf)
 - **Tests for Convergence**
 - **Series**
 	- Series for functions
@@ -89,7 +89,7 @@ Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev72878238
 <a id="full content"></a>
 ## Full Content
 ###### <a href="#top"><p align="right">☝︎back to top</p></a>
-### ➣ [***Sequences and Series***](https://github.com/CZhang666/MATH/blob/master/Calculus/SEQUENCES%20AND%20SERIES.pdf)
+### ➣ [***Sequences and Series***](https://github.com/zcczhang/MATH/blob/master/Calculus/SEQUENCES%20AND%20SERIES.pdf)
 - **Tests for Convergence**
 	- Integral test
 	- P-series
@@ -116,7 +116,7 @@ Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev72878238
 - **Taylor Mean Value Theorem**
 - **For Competition** 
 
-### ➣ [***Vectors and Matrices***](https://github.com/CZhang666/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
+### ➣ [***Vectors and Matrices***](https://github.com/zcczhang/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
 - **Vectors**
 	- Dot product
 		- Projection
@@ -135,7 +135,7 @@ Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev72878238
 	- Inverse and Adjoint matrix
 	- Theorems of homogeneous and inhomogeneous
 
-### ➣ [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/DIFFERENTIAL.pdf)
+### ➣ [***Differential***](https://github.com/zcczhang/MATH/blob/master/Calculus/DIFFERENTIAL.pdf)
 - **Partial Derivative**
 	- First-order and high-order expression 
 	- In graph
@@ -160,7 +160,7 @@ Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev72878238
 - **Non-independent Variables**
 	- Constrained differentials
 
-###➣ [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL.pdf)
+###➣ [***Integral***](https://github.com/zcczhang/MATH/blob/master/Calculus/INTEGRAL.pdf)
 - **Double Integrals**
 	- Average of function 
 - **Substitution in Double Integrals**
@@ -197,7 +197,7 @@ Reference: ***<img src="http://s9.rr.itc.cn/r/wapChange/20166_25_18/a1ev72878238
 </br >
 </br >
 <a id='dm'></a>
-# ➣ [Discrete Mathematics Catalog](https://github.com/CZhang666/MATH/tree/master/Discrete%20Mathematics)
+# ➣ [Discrete Mathematics Catalog](https://github.com/zcczhang/MATH/tree/master/Discrete%20Mathematics)
 ###### <a href="#top"><p align="right">☝︎back to top</p></a>
 ---
 ## Overview
@@ -244,7 +244,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 <a id="dmfc"></a>
 ## Full Content
 ###### <a href="#top"><p align="right">☝︎back to top</p></a>
-### ➣ [Basic Knowledge](https://github.com/CZhang666/MATH/blob/master/Discrete%20Mathematics/Sets%2C%20Number%20Theory%2C%20Sequence%2C%20Rucursion%20and%20Matrix.pdf)
+### ➣ [Basic Knowledge](https://github.com/zcczhang/MATH/blob/master/Discrete%20Mathematics/Sets%2C%20Number%20Theory%2C%20Sequence%2C%20Rucursion%20and%20Matrix.pdf)
 #### **_- Sets_**
 - __De Morgan's Law__
 - __Cartesian Products__
