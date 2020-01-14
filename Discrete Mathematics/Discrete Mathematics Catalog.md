@@ -6,7 +6,7 @@
 a:link,a:visited{color:#4682B4;text-decoration:none;}
 a:hover{text-decoration:underline;}
 </style> 
-# ➣ [Discrete Mathematics Catalog](https://github.com/CZhang666/MATH/tree/master/Discrete%20Mathematics)
+# ➣ [Discrete Mathematics Catalog](https://github.com/zcczhang/MATH/tree/master/Discrete%20Mathematics)
 ---
 ## Overview
 <div id="en"> 
@@ -52,7 +52,7 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 <a id="dmfc"></a>
 ## Full Content
 ###### <a href="#top"><p align="right">☝︎back to top</p></a>
-### ➣ [Basic Knowledge](https://github.com/CZhang666/MATH/blob/master/Discrete%20Mathematics/Sets%2C%20Number%20Theory%2C%20Sequence%2C%20Rucursion%20and%20Matrix.pdf)
+### ➣ [Basic Knowledge](https://github.com/zcczhang/MATH/blob/master/Discrete%20Mathematics/Sets%2C%20Number%20Theory%2C%20Sequence%2C%20Rucursion%20and%20Matrix.pdf)
 #### **_- Sets_**
 - __De Morgan's Law__
 - __Cartesian Products__

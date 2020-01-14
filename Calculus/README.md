@@ -1,17 +1,17 @@
-# ➣ *[Calculus Catalog](https://github.com/CZhang666/MATH/tree/master/Calculus "Repository in GitHub")*
+# ➣ *[Calculus Catalog](https://github.com/zcczhang/MATH/tree/master/Calculus "Repository in GitHub")*
 ---
 ## Overview
-*This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf) and <a href="#sc">➣Simplified Content</a> and for the full version of first learning notes with corresponding [All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and <a href="#full content">➣Full Content</a>.*
+*This is the outline and guide for all notes of college calculus, including the catalog for the simplified version of review notes with corresponding [Notes Lite](https://github.com/zcczhang/MATH/blob/master/Calculus/Notes%20Lite.pdf) and <a href="#sc">➣Simplified Content</a> and for the full version of first learning notes with corresponding [All Notes](https://github.com/zcczhang/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf) and <a href="#full content">➣Full Content</a>.*
 
-__Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Blog">@CZ</a>***
+__Author:__ ***<a href="https://zcczhang.github.io/" unselectable="on" title="Homepage">@CZ</a>***
 
 ## Quick Access
-#### ➣ *[Notes Lite](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)*
-#### ➣ *[All Notes](https://github.com/CZhang666/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)*
+#### ➣ *[Notes Lite](https://github.com/zcczhang/MATH/blob/master/Calculus/Notes%20Lite.pdf)*
+#### ➣ *[All Notes](https://github.com/zcczhang/MATH/blob/master/Calculus/Calculus%20Notes%20All.pdf)*
 <a id="sc"></a>
 ## Simplified Content
-### ➣ [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
-- ***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/Methods%20for%20Integration.pdf" unselectable="on">Methods for Integration (Flux)</a>***
+### ➣ [***Integral***](https://github.com/zcczhang/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+- ***<a href="https://github.com/zcczhang/MATH/blob/master/Calculus/Methods%20for%20Integration.pdf" unselectable="on">Methods for Integration (Flux)</a>***
 	- Line Integral
 		- To difinite integral
 		- Curve in plane
@@ -22,9 +22,9 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 		- To double integral
 		- To triple integral
 			- Divergence Theorem
-- ***<a href="https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf" unselectable="on">Integral Lite</a>***
+- ***<a href="https://github.com/zcczhang/MATH/blob/master/Calculus/INTEGRAL%20Lite.pdf" unselectable="on">Integral Lite</a>***
 
-### ➣ [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/Differential%20Lite.pdf)
+### ➣ [***Differential***](https://github.com/zcczhang/MATH/blob/master/Calculus/Differential%20Lite.pdf)
 - **Basic**
 	- Total Differential 
 	- Chain rule
@@ -35,7 +35,7 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 	- Extrema
 	- Customized optimization
 
-### ➣ [***Vectors and Matrices***](https://github.com/CZhang666/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
+### ➣ [***Vectors and Matrices***](https://github.com/zcczhang/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
 - **Vectors**
 	- Products
 	- Unit vector
@@ -44,7 +44,7 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 - **Linear system**
 
 
-### ➣ [***Sequences and Series***](https://github.com/CZhang666/MATH/blob/master/Calculus/Notes%20Lite.pdf)
+### ➣ [***Sequences and Series***](https://github.com/zcczhang/MATH/blob/master/Calculus/Notes%20Lite.pdf)
 - **Tests for Convergence**
 - **Series**
 	- Series for functions
@@ -57,7 +57,7 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 
 <a id="full content"></a>
 ## Full Content
-### ➣ [***Sequences and Series***](https://github.com/CZhang666/MATH/blob/master/Calculus/SEQUENCES%20AND%20SERIES.pdf)
+### ➣ [***Sequences and Series***](https://github.com/zcczhang/MATH/blob/master/Calculus/SEQUENCES%20AND%20SERIES.pdf)
 - **Tests for Convergence**
 	- Integral test
 	- P-series
@@ -84,7 +84,7 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 - **Taylor Mean Value Theorem**
 - **For Competition** 
 
-### ➣ [***Vectors and Matrices***](https://github.com/CZhang666/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
+### ➣ [***Vectors and Matrices***](https://github.com/zcczhang/MATH/blob/master/Calculus/VECTOR%26MATRICS.pdf)
 - **Vectors**
 	- Dot product
 		- Projection
@@ -103,7 +103,7 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 	- Inverse and Adjoint matrix
 	- Theorems of homogeneous and inhomogeneous
 
-### ➣ [***Differential***](https://github.com/CZhang666/MATH/blob/master/Calculus/DIFFERENTIAL.pdf)
+### ➣ [***Differential***](https://github.com/zcczhang/MATH/blob/master/Calculus/DIFFERENTIAL.pdf)
 - **Partial Derivative**
 	- First-order and high-order expression 
 	- In graph
@@ -128,7 +128,7 @@ __Author:__ ***<a href="https://czhang.home.blog" unselectable="on" title="My Bl
 - **Non-independent Variables**
 	- Constrained differentials
 
-### ➣ [***Integral***](https://github.com/CZhang666/MATH/blob/master/Calculus/INTEGRAL.pdf)
+### ➣ [***Integral***](https://github.com/zcczhang/MATH/blob/master/Calculus/INTEGRAL.pdf)
 - **Double Integrals**
 	- Average of function 
 - **Substitution in Double Integrals**
