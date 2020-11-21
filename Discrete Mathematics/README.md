@@ -128,9 +128,4 @@ This is the outline and guide for all notes of Discrete Mathematics, including t
 	- Extrema
 	- Topological sorting
 
-### ➣ [Boolean Algebra]()
-
-### ➣ [Graph]()
-
-### ➣ [Trees]()
 
